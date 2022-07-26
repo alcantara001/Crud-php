@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-image: linear-gradient(black, rgb(17, 37, 102));
+    color: #ffff;
+    height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+form {
+    background-color: rgba(0, 0, 0, 0.301);
+    border: 2px solid black;
+    padding: 100px;
+    border-radius: 10px;
+}
+
+h1 {
+    margin-bottom: 50px;
+}
+
+#txt1 {
+    margin-bottom: 15px;
+}
+input {
+    margin: 8px;
+    padding: 10px;
+    border-radius: 10px;
+    border-style: none;
+}
+div {
+    padding-top: 200px;
+}
